@@ -1,9 +1,9 @@
 NOTE: This is a work in progress!
 
-# Coding Practice & Examples
+# 🧑‍🏫 Coding Practice & Examples
 A collection of examples created for students learning to code, or students needing extra practice with coding topics. 
 
-## Availible Exercises
+## ⚽ Exercises
 ### JavaScript
 * Loops.js - Practice with for loops, while loops, and do while loops
 * Variables.js - Practice with variables, play with scope, and see how variables act in different situations.
